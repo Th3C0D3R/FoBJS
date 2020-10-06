@@ -19,7 +19,7 @@
     "roddeh-i18n": "^1.2.0"
   },
   "devDependencies": {
-    "electron": "^8.2.4",
+    "electron": "^8.5.1",
     "electron-packager": "^14.2.0"
   },
   "author": "TH3C0D3R",
